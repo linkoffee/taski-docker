@@ -1,0 +1,14 @@
+# .dockerignore
+
+# environment
+venv
+env
+.env
+.venv
+
+# git
+.git
+
+# etc
+db.sqlite3
+.vscode
